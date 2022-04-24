@@ -2,3 +2,5 @@ json==2.0.9
 pandas==1.4.1
 requests==2.27.1
 bs4==4.10.0
+pysentiment2==0.1.1
+yahoofinancials==1.6
