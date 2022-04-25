@@ -9,11 +9,10 @@ pip install -r requirements.txt
 ```
 
 ## Initial Findings
+Compare with plots of GOOGL'S sentiment scores and volatility in one month period, the plots shows both of them have similar trend and goes up in the end of the month.
 
 ![image](https://github.com/macs30200-s22/replication-materials-YLHan97/blob/main/Data%20Visualization/sentiment_score_googl.png)
 
 ![image](https://github.com/macs30200-s22/replication-materials-YLHan97/blob/main/Data%20Visualization/volatility_vix.png)
 
 
-
-## Results
