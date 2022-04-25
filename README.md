@@ -22,7 +22,7 @@ As the figures shown, the blue line represents the change of investor sentiment,
 
 ![image](https://github.com/macs30200-s22/replication-materials-YLHan97/blob/main/Data%20Visualization/volatility_vix.png)
 
-# Citation
+## Citation
 `@software{YLHan97,
   author       = {Yulun Han},
   title        = {macs30200-s22/replication-materials-YLHan97
