@@ -8,6 +8,10 @@ The code is written in Python 3.8.12 and all of its dependencies can be installe
 pip install -r requirements.txt
 ```
 
+### Step 1: Data Collection
+
+### Step 2: Sentiment Analysis
+
 ## Initial Findings
 As the figures shown, the blue line represents the change of investor sentiment, and the red line represents the change of stock volatility. Compare with plots of GOOGL's sentiment scores and volatility in one month period, the plots shows both of them have similar trend and goes up in the end of the month. Based on data visualization, the result may prove the relationship between investor sentiment and stock volatility. For further findings,  I need to investigate more sentiment scores of stocks inclued in the VIX index.
 
