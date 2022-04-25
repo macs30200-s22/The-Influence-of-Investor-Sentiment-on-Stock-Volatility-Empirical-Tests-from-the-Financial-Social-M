@@ -16,6 +16,7 @@ pip install -r requirements.txt
 
 ### Step 2: Sentiment Analysis
 - Sentiment Analysis for this project uses Harvard IV-4 and Loughran-McDonald sentiment dictionary as frequency dictionaries by applying Python library `pysentiment2`.
+  - Calculate each post's polarity by using `polarity_sentiment_analysis.ipynb`
 
 ## Initial Findings
 As the figures shown, the blue line represents the change of investor sentiment, and the red line represents the change of stock volatility. Compare with plots of GOOGL's sentiment scores and volatility in one month period, the plots shows both of them have similar trend and goes up in the end of the month. Based on data visualization, the result may prove the relationship between investor sentiment and stock volatility. For further findings,  I need to investigate more sentiment scores of stocks inclued in the VIX index.
@@ -33,5 +34,5 @@ As the figures shown, the blue line represents the change of investor sentiment,
   publisher    = {Github},
   journal      = {Github repository},
   howpublished = {\url{https://github.com/macs30200-s22/replication-materials-YLHan97}},
-  commit       = {a4fb64fb8bf1929ccd6cf258a69473cb1cc33a97}
+  commit       = {233447}
 }`
