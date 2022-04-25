@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ### Step 1: Data Collection (in the folder `Data`)
 - Social Media Data: 10 target companies' text data (posts), which is scrapped from StockTwits. The data is in the folder `scrapped_data`.
-- Stock Volatility Data: VIX's historical data, which is downloaded from Yahoo Finance.
+- Stock Volatility Data (`VIX.csv`): VIX's historical data, which is downloaded from Yahoo Finance.
 - Combined Data (`volatility_polarity.csv`): this dataset includes sentiment score and volatility.  
 
 ### Step 2: Sentiment Analysis
