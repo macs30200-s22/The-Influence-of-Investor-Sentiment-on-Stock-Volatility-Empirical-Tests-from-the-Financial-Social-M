@@ -34,5 +34,5 @@ As the figures shown, the blue line represents the change of investor sentiment,
   publisher    = {Github},
   journal      = {Github repository},
   howpublished = {\url{https://github.com/macs30200-s22/replication-materials-YLHan97}},
-  commit       = {233447}
+  commit       = {}
 }`
