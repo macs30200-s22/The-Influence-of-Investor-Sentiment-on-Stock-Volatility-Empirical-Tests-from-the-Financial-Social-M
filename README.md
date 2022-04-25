@@ -22,4 +22,15 @@ As the figures shown, the blue line represents the change of investor sentiment,
 
 ![image](https://github.com/macs30200-s22/replication-materials-YLHan97/blob/main/Data%20Visualization/volatility_vix.png)
 
-
+# Citation
+`@software{YLHan97,
+  author       = {Yulun Han},
+  title        = {macs30200-s22/replication-materials-YLHan97
+},
+  month        = apr,
+  year         = 2022,
+  publisher    = {Github},
+  journal     = {Github repository},
+  howpublished = {\url{https://github.com/macs30200-s22/replication-materials-YLHan97}}
+  commit = {a4fb64fb8bf1929ccd6cf258a69473cb1cc33a97}
+}`
