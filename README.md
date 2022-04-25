@@ -8,7 +8,7 @@ The code is written in Python 3.8.12 and all of its dependencies can be installe
 pip install -r requirements.txt
 ```
 
-### Step 1: Data Collection (in the folder 'Data')
+### Step 1: Data Collection (in the folder `Data`)
 - Social Media Data: 10 target companies' text data (posts), which is scrapped from StockTwits.
 - Stock Volatility Data: VIX's historical data, which is downloaded from Yahoo Finance.
 
