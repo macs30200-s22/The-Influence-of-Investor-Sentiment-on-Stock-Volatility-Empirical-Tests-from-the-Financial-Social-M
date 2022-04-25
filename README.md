@@ -27,7 +27,7 @@ As the figures shown, the blue line represents the change of investor sentiment,
 
 ## How to Cite
 ```
-  @software{YLHan97,
+@software{YLHan97,
   author       = {Yulun Han},
   title        = {macs30200-s22/replication-materials-YLHan97},
   month        = apr,
@@ -36,5 +36,5 @@ As the figures shown, the blue line represents the change of investor sentiment,
   journal      = {Github repository},
   howpublished = {\url{https://github.com/macs30200-s22/replication-materials-YLHan97}},
   commit       = {}
-  }
+}
 ```
