@@ -22,12 +22,14 @@ pip install -r requirements.txt
 - The reseach involved Granger Causality Test and Vector Autoregression model to investigate the casual and correlation relation between investor sentiment and stock volatility. 
   - Data Analysis: `final_data_analysis_multivariable_30200.ipynb`
 
-## Initial Findings
-As the figures shown, the blue line represents the change of investor sentiment, and the red line represents the change of stock volatility. Compare with plots of GOOGL's sentiment scores and volatility in one month period, the plots shows both of them have similar trend and goes up in the end of the month. Based on data visualization, the result may prove the relationship between investor sentiment and stock volatility. For further findings,  I need to investigate more sentiment scores of stocks inclued in the VIX index.
-
+## Finding 1
+As the Figure 1 shown, there is strongly lagging and unidirectional causal relation between the investor sentiment and the volatility of the stock; however, for the stock in consumer cyclical, stock volatility causes its investor sentiment. 
 <img src="./Data%20Visualization/Granger_Causality_Test_Results(lag6-12).png" width="70%" height="70%">
-<img src="./Data%20Visualization/Heatmap_for_Correlation_Matrix.png" width="50%" height="50%">
-<img src="./Data%20Visualization/Feature_Correlating_with_Stock_Volatility.png" width="50%" height="50%">
+
+## Finding 2
+Based on the result of VAR model, the investor sentiment is correlated with the stock volatility, but the results of stocks in different sectors are inconsistent. Specifically, investor sentiment of stock in communication services sector tends to have positive correlation with stock volatility. And, there is negative correlation between the investor sentiment of stock in consumer defensive sectors and stock volatility. However, for stocks in technology sectors, their investor sentiments have both positive and negative correlation relation with stock volatility. 
+<img src="./Data%20Visualization/Heatmap_for_Correlation_Matrix.png" width="45%" height="45%">
+<img src="./Data%20Visualization/Feature_Correlating_with_Stock_Volatility.png" width="35%" height="35%">
 
 
 ## How to Cite
