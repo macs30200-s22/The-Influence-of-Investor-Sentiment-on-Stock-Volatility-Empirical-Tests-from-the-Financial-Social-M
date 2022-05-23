@@ -26,6 +26,7 @@ pip install -r requirements.txt
 As the figures shown, the blue line represents the change of investor sentiment, and the red line represents the change of stock volatility. Compare with plots of GOOGL's sentiment scores and volatility in one month period, the plots shows both of them have similar trend and goes up in the end of the month. Based on data visualization, the result may prove the relationship between investor sentiment and stock volatility. For further findings,  I need to investigate more sentiment scores of stocks inclued in the VIX index.
 
 ![image](https://github.com/macs30200-s22/replication-materials-YLHan97/blob/main/Data%20Visualization/Granger_Causality_Test_Results(lag6-12).png）{:height="36px" width="36px"}
+<img src="./Data%20Visualization/Granger_Causality_Test_Results(lag6-12).png" width="500" height="300">
 
 ![image](https://github.com/macs30200-s22/replication-materials-YLHan97/blob/main/Data%20Visualization/Heatmap_for_Correlation_Matrix.png = 250x250)
 
