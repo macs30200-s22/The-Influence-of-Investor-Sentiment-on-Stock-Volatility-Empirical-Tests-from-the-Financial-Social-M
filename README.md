@@ -15,8 +15,12 @@ pip install -r requirements.txt
 - Combined Data (`volatility_polarity.csv`): this dataset includes sentiment score and volatility.  
 
 ### Step 2: Sentiment Analysis
-- Sentiment Analysis for this project uses Harvard IV-4 and Loughran-McDonald sentiment dictionary as frequency dictionaries by applying Python library `pysentiment2`.
+- Sentiment Analysis for this project uses Harvard IV-4 sentiment dictionary as frequency dictionaries by applying Python library `pysentiment2`.
   - Calculate each post's polarity by using `polarity_sentiment_analysis.ipynb`
+
+### Step 3: Time Series Analysis
+- The reseach involved Granger Causality Test and Vector Autoregression model to investigate the casual and correlation relation between investor sentiment and stock volatility. 
+  - Data Analysis: `final_data_analysis_multivariable_30200.ipynb`
 
 ## Initial Findings
 As the figures shown, the blue line represents the change of investor sentiment, and the red line represents the change of stock volatility. Compare with plots of GOOGL's sentiment scores and volatility in one month period, the plots shows both of them have similar trend and goes up in the end of the month. Based on data visualization, the result may prove the relationship between investor sentiment and stock volatility. For further findings,  I need to investigate more sentiment scores of stocks inclued in the VIX index.
