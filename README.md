@@ -14,7 +14,6 @@ pip install -r requirements.txt
   - `stocks`: 10 folders, included 11 target companies’ posts in json.file and Jupiter notebook of json merger 
 	- file name: stocks/AAPL/453309404.json
   - `posts_data`: 10 json files, organized posts in one json.file
-	- may have their csv files, which are same as json files
 	- file name: posts_data/posts_aapl.json
   - `polarity_data`: 10 csv files, using “sentiment_analysis_30200.ipynb” to calculate polarity, and the files include each post’s polarity
 	- file name: polarity_data/polarity_aapl.csv
