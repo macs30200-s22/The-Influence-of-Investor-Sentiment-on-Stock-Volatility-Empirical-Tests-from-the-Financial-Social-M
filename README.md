@@ -28,12 +28,12 @@ As the Figure 1 shown, there is strongly lagging and unidirectional causal relat
 
 To prove the causal relation is unidirectional, the study take "msft" as an example.
 
-<img src="./Data%20Visualization/Granger Causality for msft.png" width="40%" height="40%">
+<img src="./Data%20Visualization/Granger Causality for msft.png" width="30%" height="30%">
 
 
 ## Finding 2
 Based on the result of VAR model, the investor sentiment is correlated with the stock volatility, but the results of stocks in different sectors are inconsistent. Specifically, investor sentiment of stock in communication services sector tends to have positive correlation with stock volatility. And, there is negative correlation between the investor sentiment of stock in consumer defensive sectors and stock volatility. However, for stocks in technology sectors, their investor sentiments have both positive and negative correlation relation with stock volatility. 
-<img src="./Data%20Visualization/Features Correlating Result.png" width="35%" height="35%">
+<img src="./Data%20Visualization/Features Correlating Result.png" width="45%" height="45%">
 
 
 ## How to Cite
