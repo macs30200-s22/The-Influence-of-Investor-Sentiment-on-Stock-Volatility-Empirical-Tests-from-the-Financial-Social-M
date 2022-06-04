@@ -24,12 +24,12 @@ pip install -r requirements.txt
 
 ## Finding 1
 As the Figure 1 shown, there is strongly lagging and unidirectional causal relation between the investor sentiment and the volatility of the stock; however, for the stock in consumer cyclical, stock volatility causes its investor sentiment. 
-<img src="./Data%20Visualization/Granger_Causality_Test_Results(lag6-12).png" width="70%" height="70%">
+
+<img src="./Data%20Visualization/Granger Causality Test Result.png" width="70%" height="70%">
 
 ## Finding 2
 Based on the result of VAR model, the investor sentiment is correlated with the stock volatility, but the results of stocks in different sectors are inconsistent. Specifically, investor sentiment of stock in communication services sector tends to have positive correlation with stock volatility. And, there is negative correlation between the investor sentiment of stock in consumer defensive sectors and stock volatility. However, for stocks in technology sectors, their investor sentiments have both positive and negative correlation relation with stock volatility. 
-<img src="./Data%20Visualization/Heatmap_for_Correlation_Matrix.png" width="45%" height="45%">
-<img src="./Data%20Visualization/Feature_Correlating_with_Stock_Volatility.png" width="35%" height="35%">
+<img src="./Data%20Visualization/Features Correlating Result.png" width="35%" height="35%">
 
 
 ## How to Cite
