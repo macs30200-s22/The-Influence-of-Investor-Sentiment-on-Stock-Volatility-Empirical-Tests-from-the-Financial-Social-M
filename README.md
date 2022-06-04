@@ -15,7 +15,7 @@ pip install -r requirements.txt
 	- file name: stocks/AAPL/453309404.json
   - `posts_data`: 10 json files, organized posts in one json.file
 	- file name: posts_data/posts_aapl.json
-  - `polarity_data`: 10 csv files, using “sentiment_analysis_30200.ipynb” to calculate polarity, and the files include each post’s polarity
+  - `polarity_data`: 10 csv files, using `polarity_sentiment_analysis.ipynb` to calculate polarity, and the files include each post’s polarity
 	- file name: polarity_data/polarity_aapl.csv
   - `analysis_data`: 10 csv files, using “data_analysis_30200.ipynb” to calculate daily polarity and combine VIX daily close price into the file. Using this files to do grander causality test and time series analysis in “data_analysis_30200.ipynb”
 	- file name:  analysis_data/analysis_aapl.csv  
