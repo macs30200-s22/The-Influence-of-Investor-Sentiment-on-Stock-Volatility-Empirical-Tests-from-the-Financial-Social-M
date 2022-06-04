@@ -1,0 +1,51 @@
+,Ticker,Stock,Sector
+1,AAPL,Apple,Information Technology
+2,ACN,Accenture,Information Technology
+3,ADBE,Adobe,Information Technology
+4,CSCO,Cisco,Information Technology
+5,IBM,IBM,Information Technology
+6,INTC,Intel,Information Technology
+7,MA,Mastercard,Information Technology
+8,MSFT,Microsoft,Information Technology
+9,ORCL,Oracle,Information Technology
+10,PYPL,PayPal,Information Technology
+11,ABBV,AbbVie,Health Care
+12,ABT,Abbott,Health Care
+13,AMGN,Amgen,Health Care
+14,BMY,Bristol Myers Squibb,Health Care
+15,CVS,CVS Health,Health Care
+16,JNJ,Johnson & Johnson,Health Care
+17,MDT,Medtronic,Health Care
+18,MRK,Merck,Health Care
+19,PFE,Pfizer,Health Care
+20,UNH,UnitedHealth,Health Care
+21,AXP,American Express,Financials
+22,BAC,Bank of America,Financials
+23,BLK,BlackRock,Financials
+24,C,Citigroup,Financials
+25,COF,Capital One,Financials
+26,GS,Goldman Sachs,Financials
+27,JPM,JPMorgan Chase,Financials
+28,MS,Morgan Stanley,Financials
+29,USB,U.S. Bank,Financials
+30,WFC,Wells Fargo,Financials
+31,AMZN,Amazon,Consumer Discretionary
+32,F,Ford,Consumer Discretionary
+33,GM,GM,Consumer Discretionary
+34,HD,Home Depot,Consumer Discretionary
+35,LOW,Lowe's,Consumer Discretionary
+36,MCD,McDonald's,Consumer Discretionary
+37,NKE,Nike,Consumer Discretionary
+38,SBUX,Starbucks,Consumer Discretionary
+39,TGT,Target,Consumer Discretionary
+40,TSLA,Tesla,Consumer Discretionary
+41,CHTR,Charter Communications,Communication Services
+42,CMCSA,Comcast,Communication Services
+43,DIS,Disney,Communication Services
+44,FB,Meta,Communication Services
+45,GOOG,Alphabet (Class C),Communication Services
+46,GOOGL,Alphabet (Class A),Communication Services
+47,NFLX,Netflix,Communication Services
+48,T,AT&T,Communication Services
+49,TMUS,T-Mobile,Communication Services
+50,VZ,Verizon,Communication Services
