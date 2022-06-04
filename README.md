@@ -27,7 +27,7 @@ As the Figure 1 shown, there is strongly lagging and unidirectional causal relat
 <img src="./Data%20Visualization/Granger Causality Test Result.png" width="70%" height="70%">
 
 To prove the causal relation is unidirectional, the study take "msft" as an example.
-<img src="./Data%20Visualization/Granger Causality for msft.png" width="70%" height="70%">
+<img src="./Data%20Visualization/Granger Causality for msft.png" width="50%" height="50%">
 
 
 ## Finding 2
