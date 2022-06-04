@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ### Step 1: Data Collection (in the folder `Data`)
 - Social Media Data: 10 target companies' text data (posts). The data is in the folder `Data/scrapped_data`.
   - Using data crawler `scraper_stocktwits.ipynb`, collecting the data of each stock's posts, date, user id and trading decision from StockTwits.
-  - `stocks`: 10 folders, included 11 target companies’ posts in json.file and Jupiter notebook of json merger 
+  - `stocks`: 10 folders, included 10 target companies’ posts in json.file and Jupiter notebook of json merger 
 	- file name: stocks/AAPL/453309404.json
   - `posts_data`: 10 json files, organized posts in one json.file
 	- file name: posts_data/posts_aapl.json
