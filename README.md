@@ -12,7 +12,16 @@ pip install -r requirements.txt
 - Social Media Data: 10 target companies' text data (posts). The data is in the folder `Data/scrapped_data`.
   - Using data crawler `scraper_stocktwits.ipynb`, collecting the data of each stock's posts, date, user id and trading decision from StockTwits.
 - Stock Volatility Data (`VIX.csv`): VIX's historical data, which is downloaded from Yahoo Finance.
-- Combined Data (`volatility_polarity.csv`): this dataset includes sentiment score and volatility.  
+- `stocks`: 11 folders, included 11 target companies’ posts in json.file and Jupiter notebook of json merger 
+	- file name: stocks/AAPL/453309404.json
+- `posts_data`: 11 json files, organized posts in one json.file
+	- may have their csv files, which are same as json files
+	- file name: posts_data/posts_aapl.json
+			  posts_data/posts_aapl.csv
+- `polarity_data`: 11 csv files, using “sentiment_analysis_30200.ipynb” to calculate polarity, and the files include each post’s polarity
+	- file name: polarity_data/polarity_aapl.csv
+- `analysis_data`: 11 csv files, using “data_analysis_30200.ipynb” to calculate daily polarity and combine VIX daily close price into the file. Using this files to do grander causality test and time series analysis in “data_analysis_30200.ipynb”
+	- file name:  analysis_data/analysis_aapl.csv  
 
 ### Step 2: Sentiment Analysis
 - Sentiment Analysis for this project uses Harvard IV-4 sentiment dictionary as frequency dictionaries by applying Python library `pysentiment2`.
